@@ -1,0 +1,304 @@
+2022-05-05 22:31:15,403 INFO    MainThread:7860 [wandb_setup.py:_flush():76] Loading settings from C:\Users\theob\.config\wandb\settings
+2022-05-05 22:31:15,403 INFO    MainThread:7860 [wandb_setup.py:_flush():76] Loading settings from c:\Users\theob\simclr_doctoral_research-1\wandb\settings
+2022-05-05 22:31:15,404 INFO    MainThread:7860 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2022-05-05 22:31:15,404 INFO    MainThread:7860 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2022-05-05 22:31:15,404 INFO    MainThread:7860 [wandb_init.py:_log_setup():428] Logging user logs to c:\Users\theob\simclr_doctoral_research-1\wandb\run-20220505_223115-3638dfss\logs\debug.log
+2022-05-05 22:31:15,405 INFO    MainThread:7860 [wandb_init.py:_log_setup():429] Logging internal logs to c:\Users\theob\simclr_doctoral_research-1\wandb\run-20220505_223115-3638dfss\logs\debug-internal.log
+2022-05-05 22:31:15,405 INFO    MainThread:7860 [wandb_init.py:_jupyter_setup():378] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001C7A0821240>
+2022-05-05 22:31:15,406 INFO    MainThread:7860 [wandb_init.py:init():462] calling init triggers
+2022-05-05 22:31:15,406 INFO    MainThread:7860 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {}
+2022-05-05 22:31:15,406 INFO    MainThread:7860 [wandb_init.py:init():481] re-initializing run, found existing run on stack: 3ftvl0b1
+2022-05-05 22:31:15,408 INFO    MainThread:7860 [wandb_run.py:_finish():1685] finishing run simclr-doctoral-research/test-project/3ftvl0b1
+2022-05-05 22:31:15,408 INFO    MainThread:7860 [wandb_run.py:_atexit_cleanup():1867] got exitcode: 0
+2022-05-05 22:31:15,410 INFO    MainThread:7860 [wandb_run.py:_restore():1839] restore
+2022-05-05 22:31:15,972 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 739
+  total_bytes: 739
+}
+
+2022-05-05 22:31:16,312 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 739
+  total_bytes: 739
+}
+
+2022-05-05 22:31:16,560 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 739
+  total_bytes: 739
+}
+
+2022-05-05 22:31:17,336 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 739
+  total_bytes: 6242
+}
+
+2022-05-05 22:31:17,445 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 739
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:17,546 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 739
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:17,656 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 739
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:17,768 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 1080
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:17,872 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6269
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:17,981 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6269
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:18,098 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6269
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:18,212 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6269
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:18,320 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6269
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:18,434 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6269
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:18,549 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6269
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:19,080 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6269
+  total_bytes: 6269
+}
+
+2022-05-05 22:31:19,801 INFO    MainThread:7860 [wandb_run.py:_on_finish():1996] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6269
+  total_bytes: 6269
+}
+local_info {
+}
+
+2022-05-05 22:31:21,660 INFO    MainThread:7860 [wandb_run.py:_footer_history_summary_info():3104] rendering history
+2022-05-05 22:31:21,661 INFO    MainThread:7860 [wandb_run.py:_footer_history_summary_info():3136] rendering summary
+2022-05-05 22:31:21,668 INFO    MainThread:7860 [wandb_run.py:_footer_sync_info():3060] logging synced files
+2022-05-05 22:31:21,683 INFO    MainThread:7860 [wandb_init.py:init():515] starting backend
+2022-05-05 22:31:21,684 INFO    MainThread:7860 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2022-05-05 22:31:21,697 INFO    MainThread:7860 [backend.py:ensure_launched():217] starting backend process...
+2022-05-05 22:31:21,879 INFO    MainThread:7860 [backend.py:ensure_launched():222] started backend process with pid: 13168
+2022-05-05 22:31:21,879 INFO    MainThread:7860 [wandb_init.py:init():525] backend started and connected
+2022-05-05 22:31:21,884 INFO    MainThread:7860 [wandb_run.py:_label_probe_notebook():1089] probe notebook
+2022-05-05 22:31:21,884 INFO    MainThread:7860 [wandb_run.py:_label_probe_notebook():1099] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2022-05-05 22:31:21,884 INFO    MainThread:7860 [wandb_init.py:init():596] updated telemetry
+2022-05-05 22:31:22,009 INFO    MainThread:7860 [wandb_init.py:init():627] communicating run to backend with 30 second timeout
+2022-05-05 22:31:25,797 INFO    MainThread:7860 [wandb_run.py:_on_init():1924] communicating current version
+2022-05-05 22:31:26,210 INFO    MainThread:7860 [wandb_run.py:_on_init():1928] got version response 
+2022-05-05 22:31:26,210 INFO    MainThread:7860 [wandb_init.py:init():662] starting run threads in backend
+2022-05-05 22:31:31,230 INFO    MainThread:7860 [wandb_run.py:_console_start():1898] atexit reg
+2022-05-05 22:31:31,231 INFO    MainThread:7860 [wandb_run.py:_redirect():1771] redirect: SettingsConsole.WRAP
+2022-05-05 22:31:31,231 INFO    MainThread:7860 [wandb_run.py:_redirect():1808] Wrapping output streams.
+2022-05-05 22:31:31,232 INFO    MainThread:7860 [wandb_run.py:_redirect():1832] Redirects installed.
+2022-05-05 22:31:31,232 INFO    MainThread:7860 [wandb_init.py:init():688] run started, returning control to user process
+2022-05-05 22:31:31,235 INFO    MainThread:7860 [wandb_init.py:_pause_backend():341] pausing backend
+2022-05-05 22:31:31,236 INFO    MainThread:7860 [jupyter.py:save_ipynb():377] not saving jupyter notebook
+2022-05-05 22:31:31,268 INFO    MainThread:7860 [wandb_init.py:_resume_backend():350] resuming backend
+2022-05-05 22:31:31,269 INFO    MainThread:7860 [wandb_init.py:_pause_backend():341] pausing backend
+2022-05-05 22:31:31,270 INFO    MainThread:7860 [jupyter.py:save_ipynb():377] not saving jupyter notebook
+2022-05-05 22:31:31,304 INFO    MainThread:7860 [wandb_init.py:_resume_backend():350] resuming backend
+2022-05-05 22:31:31,306 INFO    MainThread:7860 [wandb_init.py:_pause_backend():341] pausing backend
+2022-05-05 22:31:31,306 INFO    MainThread:7860 [jupyter.py:save_ipynb():377] not saving jupyter notebook
+2022-05-05 22:31:31,394 INFO    MainThread:7860 [wandb_init.py:_resume_backend():350] resuming backend
+2022-05-05 22:31:32,304 INFO    MainThread:7860 [wandb_init.py:_pause_backend():341] pausing backend
+2022-05-05 22:31:32,305 INFO    MainThread:7860 [jupyter.py:save_ipynb():377] not saving jupyter notebook
+2022-05-05 22:31:32,343 INFO    MainThread:7860 [wandb_init.py:_resume_backend():350] resuming backend
+2022-05-05 22:31:46,111 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:32:01,436 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:32:15,629 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:32:31,177 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:32:48,355 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:33:05,794 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:33:24,163 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:33:41,991 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:34:00,425 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:34:19,531 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:34:41,533 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:35:01,185 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:35:21,912 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:35:43,009 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:36:05,442 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:36:25,917 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:36:47,205 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:37:08,997 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:37:32,929 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:37:56,482 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:38:19,671 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:38:41,840 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:39:01,329 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:39:20,194 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:39:38,592 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:39:55,999 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:40:12,815 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:40:29,962 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:40:47,258 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:41:04,274 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:41:21,331 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:41:38,731 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:41:56,586 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:42:15,172 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:42:34,193 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:42:53,759 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:43:13,429 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:43:33,618 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:43:53,961 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:44:13,700 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:44:31,412 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:44:49,902 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:45:07,770 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:45:25,691 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:45:43,696 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:46:01,808 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:46:18,673 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:46:34,870 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:46:52,198 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:47:09,412 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:47:27,230 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:47:45,951 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:48:05,067 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:48:24,775 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:48:44,494 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:49:05,174 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:49:25,677 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:49:46,333 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:50:05,765 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:50:23,945 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:50:42,019 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:51:00,999 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:51:19,599 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:51:37,493 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:51:55,488 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:52:13,882 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:52:32,150 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:52:49,725 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:53:07,751 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:53:26,065 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:53:44,309 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:54:02,726 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:54:22,154 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:54:42,959 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:55:04,022 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:55:25,439 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:55:46,777 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:56:10,126 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:56:29,964 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:56:49,836 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:57:09,591 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:57:28,271 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:57:47,101 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:58:05,429 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:58:24,236 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:58:42,825 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:59:02,025 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:59:20,277 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 22:59:40,190 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:00:00,571 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:00:20,627 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:00:42,171 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:01:02,814 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:01:23,714 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:01:44,496 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:02:05,581 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:02:26,462 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:02:45,188 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:03:05,209 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:03:25,340 INFO    MainThread:7860 [wandb_watch.py:watch():47] Watching
+2022-05-05 23:03:25,341 INFO    MainThread:7860 [wandb_init.py:_pause_backend():341] pausing backend
+2022-05-05 23:03:25,341 INFO    MainThread:7860 [jupyter.py:save_ipynb():377] not saving jupyter notebook
+2022-05-05 23:07:02,756 INFO    MainThread:7860 [wandb_init.py:_resume_backend():350] resuming backend
+2022-05-05 23:07:02,773 INFO    MainThread:7860 [wandb_init.py:_pause_backend():341] pausing backend
+2022-05-05 23:07:02,773 INFO    MainThread:7860 [jupyter.py:save_ipynb():377] not saving jupyter notebook
+2022-05-05 23:07:07,727 INFO    MainThread:7860 [wandb_init.py:_resume_backend():350] resuming backend
+2022-05-05 23:07:15,096 INFO    MainThread:7860 [wandb_init.py:_pause_backend():341] pausing backend
+2022-05-05 23:07:15,097 INFO    MainThread:7860 [jupyter.py:save_ipynb():377] not saving jupyter notebook
+2022-05-05 23:07:25,920 INFO    MainThread:7860 [wandb_init.py:_resume_backend():350] resuming backend
+2022-05-05 23:07:25,971 INFO    MainThread:7860 [wandb_init.py:_pause_backend():341] pausing backend
+2022-05-05 23:07:25,971 INFO    MainThread:7860 [jupyter.py:save_ipynb():377] not saving jupyter notebook
+2022-05-05 23:09:35,249 INFO    MainThread:7860 [wandb_init.py:_resume_backend():350] resuming backend
+2022-05-05 23:09:35,925 INFO    MainThread:7860 [wandb_init.py:_pause_backend():341] pausing backend
+2022-05-05 23:09:35,925 INFO    MainThread:7860 [jupyter.py:save_ipynb():377] not saving jupyter notebook
+2022-05-05 23:11:27,466 INFO    MainThread:7860 [wandb_init.py:_resume_backend():350] resuming backend
+2022-05-05 23:11:27,921 INFO    MainThread:7860 [wandb_init.py:_pause_backend():341] pausing backend
+2022-05-05 23:11:27,921 INFO    MainThread:7860 [jupyter.py:save_ipynb():377] not saving jupyter notebook

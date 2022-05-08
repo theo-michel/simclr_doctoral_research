@@ -1,0 +1,4 @@
+2022-05-08 20:56:05,447 INFO    MainThread:1652 [internal.py:wandb_internal():90] W&B internal server running at pid: 1652, started at: 2022-05-08 20:56:05.445946
+2022-05-08 20:56:05,449 INFO    WriterThread:1652 [datastore.py:open_for_write():75] open: c:\Users\theob\simclr_doctoral_research-1\wandb\run-20220508_205554-57ifoqfu\run-57ifoqfu.wandb
+2022-05-08 20:56:05,452 DEBUG   SenderThread:1652 [sender.py:send():232] send: header
+2022-05-08 20:56:05,452 DEBUG   SenderThread:1652 [sender.py:send():232] send: run

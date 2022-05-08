@@ -1,0 +1,149 @@
+
+[34m[1mwandb[39m[22m: [33mWARNING[39m Calling wandb.login() after wandb.init() has no effect.
+hey:
+epoch [1/100], loss:0.1941
+epoch [2/100], loss:0.1691
+epoch [3/100], loss:0.1642
+epoch [4/100], loss:0.1621
+epoch [5/100], loss:0.1615
+epoch [6/100], loss:0.1526
+epoch [7/100], loss:0.1528
+epoch [8/100], loss:0.1359
+epoch [9/100], loss:0.1451
+epoch [10/100], loss:0.1483
+epoch [11/100], loss:0.1496
+epoch [12/100], loss:0.1387
+epoch [13/100], loss:0.1356
+epoch [14/100], loss:0.1460
+epoch [15/100], loss:0.1377
+epoch [16/100], loss:0.1265
+epoch [17/100], loss:0.1360
+epoch [18/100], loss:0.1260
+epoch [19/100], loss:0.1380
+epoch [20/100], loss:0.1371
+epoch [21/100], loss:0.1204
+epoch [22/100], loss:0.1196
+epoch [23/100], loss:0.1431
+epoch [24/100], loss:0.1268
+epoch [25/100], loss:0.1183
+epoch [26/100], loss:0.1318
+epoch [27/100], loss:0.1336
+epoch [28/100], loss:0.1270
+epoch [29/100], loss:0.1367
+epoch [30/100], loss:0.1268
+epoch [31/100], loss:0.1253
+epoch [32/100], loss:0.1201
+epoch [33/100], loss:0.1321
+epoch [34/100], loss:0.1241
+epoch [35/100], loss:0.1193
+epoch [36/100], loss:0.1274
+epoch [37/100], loss:0.1290
+epoch [38/100], loss:0.1170
+epoch [39/100], loss:0.1373
+epoch [40/100], loss:0.1203
+epoch [41/100], loss:0.1322
+epoch [42/100], loss:0.1172
+epoch [43/100], loss:0.1286
+epoch [44/100], loss:0.1245
+epoch [45/100], loss:0.1243
+epoch [46/100], loss:0.1297
+epoch [47/100], loss:0.1202
+epoch [48/100], loss:0.1309
+epoch [49/100], loss:0.1328
+epoch [50/100], loss:0.1240
+epoch [51/100], loss:0.1226
+epoch [52/100], loss:0.1219
+epoch [53/100], loss:0.1209
+epoch [54/100], loss:0.1268
+epoch [55/100], loss:0.1225
+epoch [56/100], loss:0.1197
+epoch [57/100], loss:0.1255
+epoch [58/100], loss:0.1251
+epoch [59/100], loss:0.1140
+epoch [60/100], loss:0.1229
+epoch [61/100], loss:0.1242
+epoch [62/100], loss:0.1234
+epoch [63/100], loss:0.1267
+epoch [64/100], loss:0.1273
+epoch [65/100], loss:0.1299
+epoch [66/100], loss:0.1189
+epoch [67/100], loss:0.1215
+epoch [68/100], loss:0.1234
+epoch [69/100], loss:0.1250
+epoch [70/100], loss:0.1209
+epoch [71/100], loss:0.1197
+epoch [72/100], loss:0.1314
+epoch [73/100], loss:0.1187
+epoch [74/100], loss:0.1175
+epoch [75/100], loss:0.1167
+epoch [76/100], loss:0.1249
+epoch [77/100], loss:0.1269
+epoch [78/100], loss:0.1205
+epoch [79/100], loss:0.1298
+epoch [80/100], loss:0.1220
+epoch [81/100], loss:0.1155
+epoch [82/100], loss:0.1216
+epoch [83/100], loss:0.1205
+epoch [84/100], loss:0.1252
+epoch [85/100], loss:0.1111
+epoch [86/100], loss:0.1202
+epoch [87/100], loss:0.1255
+epoch [88/100], loss:0.1154
+epoch [89/100], loss:0.1089
+epoch [90/100], loss:0.1350
+epoch [91/100], loss:0.1123
+epoch [92/100], loss:0.1223
+epoch [93/100], loss:0.1161
+epoch [94/100], loss:0.1249
+epoch [95/100], loss:0.1280
+epoch [96/100], loss:0.1259
+epoch [97/100], loss:0.1157
+epoch [98/100], loss:0.1273
+epoch [99/100], loss:0.1181
+epoch [100/100], loss:0.1115
+Requirement already satisfied: wandb in c:\python310\lib\site-packages (0.12.16)
+Requirement already satisfied: setuptools in c:\python310\lib\site-packages (from wandb) (58.1.0)
+Requirement already satisfied: setproctitle in c:\python310\lib\site-packages (from wandb) (1.2.3)
+Requirement already satisfied: shortuuid>=0.5.0 in c:\python310\lib\site-packages (from wandb) (1.0.8)
+Requirement already satisfied: pathtools in c:\python310\lib\site-packages (from wandb) (0.1.2)
+Requirement already satisfied: python-dateutil>=2.6.1 in c:\python310\lib\site-packages (from wandb) (2.8.2)
+Requirement already satisfied: GitPython>=1.0.0 in c:\python310\lib\site-packages (from wandb) (3.1.27)
+Requirement already satisfied: Click!=8.0.0,>=7.0 in c:\python310\lib\site-packages (from wandb) (8.1.3)
+Requirement already satisfied: requests<3,>=2.0.0 in c:\python310\lib\site-packages (from wandb) (2.27.1)
+Requirement already satisfied: sentry-sdk>=1.0.0 in c:\python310\lib\site-packages (from wandb) (1.5.11)
+Requirement already satisfied: docker-pycreds>=0.4.0 in c:\python310\lib\site-packages (from wandb) (0.4.0)
+Requirement already satisfied: promise<3,>=2.0 in c:\python310\lib\site-packages (from wandb) (2.3)
+Requirement already satisfied: six>=1.13.0 in c:\python310\lib\site-packages (from wandb) (1.16.0)
+Requirement already satisfied: protobuf>=3.12.0 in c:\python310\lib\site-packages (from wandb) (3.19.4)
+Requirement already satisfied: psutil>=5.0.0 in c:\python310\lib\site-packages (from wandb) (5.9.0)
+Requirement already satisfied: PyYAML in c:\python310\lib\site-packages (from wandb) (6.0)
+Requirement already satisfied: colorama in c:\python310\lib\site-packages (from Click!=8.0.0,>=7.0->wandb) (0.4.4)
+Requirement already satisfied: gitdb<5,>=4.0.1 in c:\python310\lib\site-packages (from GitPython>=1.0.0->wandb) (4.0.9)
+Requirement already satisfied: idna<4,>=2.5 in c:\python310\lib\site-packages (from requests<3,>=2.0.0->wandb) (3.3)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in c:\python310\lib\site-packages (from requests<3,>=2.0.0->wandb) (1.26.9)
+Requirement already satisfied: certifi>=2017.4.17 in c:\python310\lib\site-packages (from requests<3,>=2.0.0->wandb) (2021.10.8)
+Requirement already satisfied: charset-normalizer~=2.0.0 in c:\python310\lib\site-packages (from requests<3,>=2.0.0->wandb) (2.0.12)
+Requirement already satisfied: smmap<6,>=3.0.1 in c:\python310\lib\site-packages (from gitdb<5,>=4.0.1->GitPython>=1.0.0->wandb) (5.0.0)
+Note: you may need to restart the kernel to use updated packages.
+Collecting graphviz
+  Downloading graphviz-0.20-py3-none-any.whl (46 kB)
+     -------------------------------------- 47.0/47.0 KB 782.1 kB/s eta 0:00:00
+Installing collected packages: graphviz
+Successfully installed graphviz-0.20
+Note: you may need to restart the kernel to use updated packages.
+Collecting torchviz
+  Downloading torchviz-0.0.2.tar.gz (4.9 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: torch in c:\python310\lib\site-packages (from torchviz) (1.11.0)
+Requirement already satisfied: graphviz in c:\python310\lib\site-packages (from torchviz) (0.20)
+Requirement already satisfied: typing-extensions in c:\python310\lib\site-packages (from torch->torchviz) (4.1.1)
+Building wheels for collected packages: torchviz
+  Building wheel for torchviz (setup.py): started
+  Building wheel for torchviz (setup.py): finished with status 'done'
+  Created wheel for torchviz: filename=torchviz-0.0.2-py3-none-any.whl size=4150 sha256=e73a64013004c6bc84410f87d7bba7b582232637fd72df22b1f92ec06c62eb6b
+  Stored in directory: c:\users\theob\appdata\local\pip\cache\wheels\4c\97\88\a02973217949e0db0c9f4346d154085f4725f99c4f15a87094
+Successfully built torchviz
+Installing collected packages: torchviz
+Successfully installed torchviz-0.0.2
+Note: you may need to restart the kernel to use updated packages.
