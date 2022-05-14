@@ -1,0 +1,3 @@
+[submodule "SimCLR"]
+	path = SimCLR
+	url = https://github.com/theo-michel/SimCLR.git
