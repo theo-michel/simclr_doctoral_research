@@ -1,0 +1,107 @@
+
+cuda
+epoch [1/10], loss:0.0932
+epoch [2/10], loss:0.0571
+epoch [3/10], loss:0.0417
+epoch [4/10], loss:0.0337
+epoch [5/10], loss:0.0279
+epoch [6/10], loss:0.0296
+epoch [7/10], loss:0.0245
+epoch [8/10], loss:0.0220
+epoch [9/10], loss:0.0205
+epoch [10/10], loss:0.0181
+0.0200618589296937
+encoder.0.weight False
+encoder.0.bias False
+encoder.2.weight False
+encoder.2.bias False
+decoder.0.weight True
+decoder.0.bias True
+decoder.2.weight True
+decoder.2.bias True
+encoder.0.weight False
+encoder.0.bias False
+encoder.2.weight False
+encoder.2.bias False
+classifier.fc1.weight True
+classifier.fc1.bias True
+classifier.fc2.weight True
+classifier.fc2.bias True
+encoder.0.weight False
+encoder.0.bias False
+encoder.2.weight False
+encoder.2.bias False
+classifier.fc1.weight True
+classifier.fc1.bias True
+classifier.fc2.weight True
+classifier.fc2.bias True
+<bound method Module.parameters of JoinedModel(
+  (encoder): Sequential(
+    (0): Linear(in_features=784, out_features=256, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=256, out_features=128, bias=True)
+  )
+  (classifier): LinearClassifier(
+    (fc1): Linear(in_features=128, out_features=128, bias=True)
+    (fc2): Linear(in_features=128, out_features=10, bias=True)
+  )
+)>
+epoch [1/10], loss:0.4155
+epoch [2/10], loss:0.2815
+epoch [3/10], loss:0.2487
+epoch [4/10], loss:0.4103
+epoch [5/10], loss:0.3095
+epoch [6/10], loss:0.2788
+epoch [7/10], loss:0.3928
+epoch [8/10], loss:0.3543
+epoch [9/10], loss:0.2887
+epoch [10/10], loss:0.3315
+0.3099458649754524
+JoinedModel(
+  (encoder): Sequential(
+    (0): Linear(in_features=784, out_features=256, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=256, out_features=128, bias=True)
+  )
+  (classifier): LinearClassifier(
+    (fc1): Linear(in_features=128, out_features=128, bias=True)
+    (fc2): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+encoder.0.weight False
+encoder.0.bias False
+encoder.2.weight False
+encoder.2.bias False
+classifier.fc1.weight True
+classifier.fc1.bias True
+classifier.fc2.weight True
+classifier.fc2.bias True
+<bound method Module.parameters of JoinedModel(
+  (encoder): Sequential(
+    (0): Linear(in_features=784, out_features=256, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=256, out_features=128, bias=True)
+  )
+  (classifier): LinearClassifier(
+    (fc1): Linear(in_features=128, out_features=128, bias=True)
+    (fc2): Linear(in_features=128, out_features=10, bias=True)
+  )
+)>
+encoder.0.weight False
+encoder.0.bias False
+encoder.2.weight False
+encoder.2.bias False
+classifier.fc1.weight True
+classifier.fc1.bias True
+classifier.fc2.weight True
+classifier.fc2.bias True
+<bound method Module.parameters of JoinedModel(
+  (encoder): Sequential(
+    (0): Linear(in_features=784, out_features=256, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=256, out_features=128, bias=True)
+  )
+  (classifier): LinearClassifier(
+    (fc1): Linear(in_features=128, out_features=128, bias=True)
+    (fc2): Linear(in_features=128, out_features=10, bias=True)
+  )

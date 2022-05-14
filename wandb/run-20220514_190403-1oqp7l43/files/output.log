@@ -1,0 +1,21 @@
+
+cuda
+cuda
+epoch [1/10], loss:0.0878
+epoch [2/10], loss:0.0554
+epoch [3/10], loss:0.0465
+epoch [4/10], loss:0.0361
+epoch [5/10], loss:0.0323
+epoch [6/10], loss:0.0284
+epoch [7/10], loss:0.0283
+epoch [8/10], loss:0.0237
+epoch [9/10], loss:0.0239
+epoch [10/10], loss:0.0217
+0.021061862353235483
+encoder.0.weight False
+encoder.0.bias False
+encoder.2.weight False
+encoder.2.bias False
+decoder.0.weight True
+decoder.0.bias True
+decoder.2.weight True

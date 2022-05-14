@@ -1,0 +1,23 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.10.4",
+    "heartbeatAt": "2022-05-14T17:37:58.580344",
+    "startedAt": "2022-05-14T17:37:48.330003",
+    "docker": null,
+    "gpu": "GeForce GTX 1050",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/theo-michel/simclr_doctoral_research.git",
+        "commit": "d38d6c2da16988d651383f12bc7bb557e54e8ebb"
+    },
+    "email": "theo64200@gmail.com",
+    "root": "C:/Users/theob/simclr_doctoral_research-1",
+    "host": "DESKTOP-UOETFK0",
+    "username": "theob",
+    "executable": "C:\\Python310\\python.exe"
+}

@@ -1,0 +1,84 @@
+
+cuda
+epoch [1/10], loss:0.1028
+epoch [2/10], loss:0.0556
+epoch [3/10], loss:0.0407
+epoch [4/10], loss:0.0365
+epoch [5/10], loss:0.0284
+epoch [6/10], loss:0.0258
+epoch [7/10], loss:0.0295
+epoch [8/10], loss:0.0236
+epoch [9/10], loss:0.0241
+epoch [10/10], loss:0.0226
+0.021432275604456662
+encoder.0.weight False
+encoder.0.bias False
+encoder.2.weight False
+encoder.2.bias False
+decoder.0.weight True
+decoder.0.bias True
+decoder.2.weight True
+decoder.2.bias True
+encoder.0.weight False
+encoder.0.bias False
+encoder.2.weight False
+encoder.2.bias False
+classifier.fc1.weight True
+classifier.fc1.bias True
+classifier.fc2.weight True
+classifier.fc2.bias True
+<bound method Module.parameters of JoinedModel(
+  (encoder): Sequential(
+    (0): Linear(in_features=784, out_features=256, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=256, out_features=128, bias=True)
+  )
+  (classifier): LinearClassifier(
+    (fc1): Linear(in_features=128, out_features=128, bias=True)
+    (relu): ReLU()
+    (fc2): Linear(in_features=128, out_features=10, bias=True)
+  )
+)>
+epoch [1/10], loss:0.3214
+epoch [2/10], loss:0.2304
+epoch [3/10], loss:0.1203
+epoch [4/10], loss:0.1935
+epoch [5/10], loss:0.1093
+epoch [6/10], loss:0.2432
+epoch [7/10], loss:0.0467
+epoch [8/10], loss:0.1000
+epoch [9/10], loss:0.1401
+epoch [10/10], loss:0.1347
+0.10267309062182903
+JoinedModel(
+  (encoder): Sequential(
+    (0): Linear(in_features=784, out_features=256, bias=True)
+    (1): ReLU(inplace=True)
+    (2): Linear(in_features=256, out_features=128, bias=True)
+  )
+  (classifier): LinearClassifier(
+    (fc1): Linear(in_features=128, out_features=128, bias=True)
+    (relu): ReLU()
+    (fc2): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+accuracy:  0.958984375
+accuracy:  0.96484375
+accuracy:  0.9694010416666666
+accuracy:  0.970703125
+accuracy:  0.966796875
+accuracy:  0.966796875
+accuracy:  0.9681919642857143
+accuracy:  0.9677734375
+accuracy:  0.9678819444444444
+accuracy:  0.96796875
+accuracy:  0.96875
+accuracy:  0.9694010416666666
+accuracy:  0.9704026442307693
+accuracy:  0.9701450892857143
+accuracy:  0.9701822916666667
+accuracy:  0.9696044921875
+accuracy:  0.9688648897058824
+accuracy:  0.9683159722222222
+accuracy:  0.9690583881578947
+accuracy:  0.9688
