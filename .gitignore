@@ -103,3 +103,6 @@ mlp_img/image_test.png
 **.pyc
 **.tar.gz
 **.log
+**.0
+**.png
+**/cifar-10-batches-py/**
