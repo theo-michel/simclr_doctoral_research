@@ -106,3 +106,10 @@ mlp_img/image_test.png
 **.0
 **.png
 **/cifar-10-batches-py/**
+wandb/**
+saved_models/**
+**.html
+PDF_Results/**
+torchviz/**
+mlp_iml/**
+**/pth
